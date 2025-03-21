@@ -52,7 +52,7 @@ This project utilizes Facebook's Prophet library to analyze and predict stock pr
 
 Report images are generated from the `reports` directory of the project.
 
-![Stock Price Prediction Chart](reports/stock_prediction_TSLA.png)
+![Stock Price Prediction Chart](stock_prediction_TSLA.png)
 
 ## Contributing
 
