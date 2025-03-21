@@ -16,10 +16,10 @@ This project utilizes Facebook's Prophet library to analyze and predict stock pr
 
 ## Usage
 
-1.  Run the `predict_stock.py` file with the necessary parameters:
+1.  Run the `predict_stock_prophet.py` file with the necessary parameters:
 
     ```bash
-    python predict_stock.py <ticker> <start_date> <end_date>
+    python predict_stock_prophet.py <ticker> <start_date> <end_date>
     ```
 
     Where:
